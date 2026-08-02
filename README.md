@@ -61,6 +61,3 @@ Full documentation is available at [`doc/documentation_v1.0`](./doc/documentatio
 
 Watch the robot balancing in action: https://youtu.be/Z_mbFLvszcI
 
-## License
-
-Add your preferred license here (e.g., MIT).
